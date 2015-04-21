@@ -5,6 +5,8 @@
 
 ##Ruby
 
+* [Wtf is up with Hash.new([])](http://www.hereisahand.com/hash-issue/): Parker L. (4/14/15)
+
 ##SQL
 
 ##ORMs
