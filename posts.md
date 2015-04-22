@@ -7,6 +7,8 @@
 
 * [Put a Method On It!] (http://sim1hill.github.io/put-a-method-on-it/): Simone H. (4/9/15)
 
+* [Syntactic Sugar: The bigger picture in 1s and 0s](https://medium.com/@NobleMachine/syntactic-sugar-c97a8036db49): Findlay P. (4/13/15)
+
 ##Ruby
 
 * [The layman’s guide to RegEx: What is RegEx exactly?](http://jahde.svbtle.com/ruby-feels-and-introspection): Jahde. (4/8/15)
