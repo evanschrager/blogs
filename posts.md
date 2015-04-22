@@ -13,6 +13,8 @@
 
 * [Wtf is up with Hash.new([])](http://www.hereisahand.com/hash-issue/): Parker L. (4/14/15)
 
+* [Designing Beautiful Code](https://medium.com/@hidace/designing-beautiful-code-a2cf6977273c): Dace W. (4/13/15)
+
 ##SQL
 
 ##ORMs
