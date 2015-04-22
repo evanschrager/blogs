@@ -13,6 +13,8 @@
 
 * [Wtf is up with Hash.new([])](http://www.hereisahand.com/hash-issue/): Parker L. (4/14/15)
 
+* [||= Or Equals ||=](http://sephhh.github.io/blog/2015/04/15/or-equals/): Seph K. (4/15/15)
+
 ##SQL
 
 ##ORMs
