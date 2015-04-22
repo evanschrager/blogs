@@ -32,6 +32,8 @@
 
 * [Object feels and Introspection](http://jahde.svbtle.com/the-laymans-guide-to-regexwhat-is-regex-exactly): Jahde. (4/21/15)
 
+* [Hashketball — Thinking Outside the Box](https://medium.com/@TitanLax3/hashketball-thinking-outside-the-box-74da79fd5a4d): Evan (4/13/15)
+
 ##SQL
 
 ##ORMs
