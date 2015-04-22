@@ -1,8 +1,14 @@
 #Octocats Blog Posts
 
-##Intro/Reflection
+##Intro/Reflection/Misc
+
+* [Your Basic Guide to Git](http://hannahlw.github.io/blog/2015/04/05/your-basic-guide-to-git/): Hannah W. (4/5/15)
+
+* [Coding Cliches](http://cruble.github.io/blog/2015/04/05/cliches-written-in-ruby/): Chad R. (4/6/15)
 
 * [Put a Method On It!] (http://sim1hill.github.io/put-a-method-on-it/): Simone H. (4/9/15)
+
+* [My Coding Sidekick - Seeing is Believing](http://jonwtow.tumblr.com/post/116144382226/my-coding-sidekick-seeing-is-believin/): Jon Tow (4/11/15)
 
 * [Syntactic Sugar: The bigger picture in 1s and 0s](https://medium.com/@NobleMachine/syntactic-sugar-c97a8036db49): Findlay P. (4/13/15)
 
@@ -10,11 +16,7 @@
 
 * [Hello Rake](http://cruble.github.io/blog/2015/04/16/hello-rake/): Chad R. (4/17/15)
 
-##Misc
-
-* [Coding Cliches](http://cruble.github.io/blog/2015/04/05/cliches-written-in-ruby/): Chad R. (4/6/15)
-
-* [My Coding Sidekick - Seeing is Believing](http://jonwtow.tumblr.com/post/116144382226/my-coding-sidekick-seeing-is-believin/): Jon Tow (4/11/15)
+* [Changing the Way I Think About Complex Problems](http://hannahlw.github.io/blog/2015/04/19/changing-the-way-i-think-about-complex-problems/): Hannah W. (4/19/15)
 
 ##Ruby
 
