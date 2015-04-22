@@ -8,9 +8,13 @@
 
 * [Haystack, meet your match: a brief intro to regular expressions](http://ivalentine.net/blog/2015/4/regular-expressions): Ian V. (4/16/15)
 
+* [Hello Rake](http://cruble.github.io/blog/2015/04/16/hello-rake/): Chad R. (4/17/15)
+
 ##Misc
 
 * [My Coding Sidekick - Seeing is Believing](http://jonwtow.tumblr.com/post/116144382226/my-coding-sidekick-seeing-is-believin/): Jon Tow (4/11/15)
+
+* [Coding Cliches](http://cruble.github.io/blog/2015/04/05/cliches-written-in-ruby/): Chad R. (4/6/15)
 
 ##Ruby
 
