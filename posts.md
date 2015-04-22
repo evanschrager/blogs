@@ -12,13 +12,15 @@
 
 ##Misc
 
-* [My Coding Sidekick - Seeing is Believing](http://jonwtow.tumblr.com/post/116144382226/my-coding-sidekick-seeing-is-believin/): Jon Tow (4/11/15)
-
 * [Coding Cliches](http://cruble.github.io/blog/2015/04/05/cliches-written-in-ruby/): Chad R. (4/6/15)
+
+* [My Coding Sidekick - Seeing is Believing](http://jonwtow.tumblr.com/post/116144382226/my-coding-sidekick-seeing-is-believin/): Jon Tow (4/11/15)
 
 ##Ruby
 
 * [The layman’s guide to RegEx: What is RegEx exactly?](http://jahde.svbtle.com/ruby-feels-and-introspection): Jahde. (4/8/15)
+
+* [Designing Beautiful Code](https://medium.com/@hidace/designing-beautiful-code-a2cf6977273c): Dace W. (4/13/15)
 
 * [Wtf is up with Hash.new([])](http://www.hereisahand.com/hash-issue/): Parker L. (4/14/15)
 
